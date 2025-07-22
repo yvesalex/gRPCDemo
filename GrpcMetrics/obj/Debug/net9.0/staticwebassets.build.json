@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "jus+Xl8GE88zxN76vNyj/MhQsM1ISirpqQCQbrvepao=",
+  "Source": "GrpcMetrics",
+  "BasePath": "_content/GrpcMetrics",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

@@ -1,0 +1,17 @@
+syntax = "proto3";
+
+option csharp_namespace = "Metrics";
+
+package metrics;
+
+service NameMetrics {
+  rpc GetLength (LengthRequest) returns (LengthReply);
+}
+
+message LengthRequest {
+  string name = 1;
+}
+
+message LengthReply {
+  int32 length = 1;
+}
